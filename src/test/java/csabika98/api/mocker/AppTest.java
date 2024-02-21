@@ -1,4 +1,4 @@
-package com.hello.world;
+package csabika98.api.mocker;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

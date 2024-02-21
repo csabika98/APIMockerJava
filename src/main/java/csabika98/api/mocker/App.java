@@ -1,4 +1,4 @@
-package com.hello.world;
+package csabika98.api.mocker;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
